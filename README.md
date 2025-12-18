@@ -1,45 +1,46 @@
-# 👋 Ciao, sono Gabriele (Gabri)!
+# 👋 Hi, I'm Gabriele (Gabri)!
 
-🧑‍💻 **Frontend Developer & UX/UI Designer** | React | Next.js | Angular | TypeScript | Tailwind | Figma | Photoshop  
+🧑‍💻 **Frontend Developer & UX/UI Designer** | React | Next.js | Python | Angular | TypeScript | Tailwind | Figma | Photoshop  
 
-💡 Trasformo idee in interfacce eleganti, funzionali e performanti. Mi piace scrivere codice pulito, creare esperienze utente memorabili e sperimentare con nuove tecnologie.
+💡 I turn ideas into elegant, functional, and performant interfaces. I enjoy writing clean code, crafting memorable user experiences, and experimenting with new technologies.
 
 ---
 
 ## 🔧 Skills
 
-**Frontend / Web:** React, Next.js, Angular, Ionic, HTML5, CSS3, JavaScript, TypeScript, Tailwind  
-**UI / UX:** Figma, Photoshop, Design System, Responsive Design, Prototyping  
-**Tools / DevOps:** GitLab, Git, VSC, Postman, FileZilla, ClickUp  
+**Frontend / Web:** React, Next.js, Python, Angular, Ionic, HTML5, CSS3, JavaScript, TypeScript, Tailwind  
+**UI / UX:** Figma, Photoshop, Design Systems, Responsive Design, Prototyping  
+**Tools / DevOps:** GitLab, Git, VS Code, Postman, FileZilla, ClickUp  
 **Other:** Raspberry Pi, Telegram Bots, API Automation  
 
 ---
 
-## 🚀 Progetti principali
+## 🚀 Key Projects
 
-| Progetto | Descrizione | Link |
-|----------|------------|------|
-| **Server API Bot** | Telegram bot + CLI per testare REST API con gestione token, path dinamici e log/export | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
-| **DevBotUtils** | Utility scripts e bot di supporto per sviluppo rapido | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
-| **Project Tree** | Script per generare e visualizzare strutture di progetto | [GitHub](https://github.com/baffiaguzzi/project-tree) |
+| Project | Description | Link |
+|---------|------------|------|
+| **Server API Bot** | Telegram bot + CLI to smoke-test REST APIs with token management, dynamic paths, and logging/export | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
+| **DevBotUtils** | Utility scripts and bots to speed up development workflows | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
+| **Project Tree** | Scripts to generate and visualize project structures | [GitHub](https://github.com/baffiaguzzi/project-tree) |
 
 ---
 
-## 📫 Contatti
+## 📫 Contact
 
-- LinkedIn: [Gabriele Tambellini](https://www.linkedin.com/in/gabriele-tambellini/)  
-- Email: gabri@example.com (puoi sostituire con reale)  
-- Portfolio: *(in arrivo, se vuoi aggiungere link al tuo sito)*  
+- LinkedIn: [Gabriele A. Tambellini]([https://www.linkedin.com/in/gabriele-tambellini/](https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b?trk=people-guest_people_search-card))  
+- Email: gabrieleatambellini@gmail.com  
+- Portfolio: [Website](https://www.baffiaguzzi.com/it)  
 
 ---
 
 ## ⚡ Motto / Fun Fact
 
-> "Codice pulito, interfacce pulite, vita meno complicata."  
-> Amo sperimentare e non smettere mai di imparare.
+> "Clean code, smooth interfaces, simpler life."  
+> I love experimenting and never stop learning.
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Gabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=baffiaguzzi&show_icons=true&theme=tokyonight)
+
