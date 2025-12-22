@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriele (Gabri)!
+# Hi, I'm Gabriele (Gabri)!
 
 🧑‍💻 **Frontend Developer & UX/UI Designer** | React | Next.js | Python | Angular | TypeScript | Tailwind | Figma | Photoshop  
 
@@ -37,10 +37,3 @@
 
 > "Clean code, smooth interfaces, simpler life."  
 > I love experimenting and never stop learning.
-
----
-
-## 📈 GitHub Stats
-
-![Gabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=baffiaguzzi&show_icons=true&theme=tokyonight)
-
