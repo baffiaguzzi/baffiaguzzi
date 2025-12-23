@@ -54,7 +54,7 @@ Raspberry Pi, Telegram Bots, API Automation
 
 - LinkedIn: [Gabriele A. Tambellini](https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b)  
 - Email: gabrieleatambellini@gmail.com  
-- Portfolio: [www.yourportfolio.com](https://www.baffiaguzzi.com)
+- Portfolio: [Website](https://www.baffiaguzzi.com)
 
 ---
 
