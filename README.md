@@ -4,7 +4,7 @@
 
 💡 I turn ideas into elegant, functional, and performant interfaces. I enjoy writing clean code, crafting memorable user experiences, and experimenting with new technologies.
 
-![Profile Demo](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- sostituisci con screenshot o GIF reale -->
+![Profile Demo]
 
 ---
 
@@ -35,9 +35,9 @@ Raspberry Pi, Telegram Bots, API Automation
 
 | Project | Description | Tech | Demo / Link |
 |---------|------------|------|-------------|
-| **Server API Bot** | ![Server API Bot](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
-| **DevBotUtils** | ![DevBotUtils](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
-| **Project Tree** | ![Project Tree](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
+| **Server API Bot** | ![Server API Bot] Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
+| **DevBotUtils** | ![DevBotUtils] Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
+| **Project Tree** | ![Project Tree] Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
 
 ---
 
@@ -54,7 +54,7 @@ Raspberry Pi, Telegram Bots, API Automation
 
 - LinkedIn: [Gabriele A. Tambellini](https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b)  
 - Email: gabrieleatambellini@gmail.com  
-- Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com) <!-- se disponibile -->
+- Portfolio: [www.yourportfolio.com](https://www.baffiaguzzi.com)
 
 ---
 
