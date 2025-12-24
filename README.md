@@ -12,8 +12,6 @@
 Next.js + Tailwind analytics dashboard tracking visits, browser usage, searches, and recent activity, with optional Telegram bot integration.  
 Actively refining UI/UX, data visualization, and dark mode.
 
-![Dashboard GIF placeholder](https://via.placeholder.com/600x200?text=Web+Activity+Dashboard+GIF)
-
 ---
 
 ## 🧰 Languages & Tools
@@ -54,8 +52,6 @@ Actively refining UI/UX, data visualization, and dark mode.
 | 📊 **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
 | 📈 **Web Activity Dashboard** | Analytics dashboard with Next.js + Tailwind, optional Telegram bot | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
 
-> *Pro tip:* aggiungi GIF/screenshots per tutti i progetti principali così chi visita vede subito l’interfaccia in azione.
-
 ---
 
 ## 🏆 Highlights & Milestones
@@ -65,13 +61,6 @@ Actively refining UI/UX, data visualization, and dark mode.
 - ✅ Automated project structure visualization with Project Tree
 - ✅ Web Activity Dashboard: Next.js 13 + TailwindCSS + Recharts analytics UI
 - ✅ Active experimentation with Python + Frontend tools
-
----
-
-## 📊 GitHub Stats
-
-![Gabriele's GitHub stats](https://github-readme-stats.vercel.app/api?username=baffiaguzzi&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baffiaguzzi&layout=compact&theme=tokyonight)
 
 ---
 
