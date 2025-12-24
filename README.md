@@ -46,10 +46,14 @@ Raspberry Pi, Telegram Bots, API Automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/>
+
+  <!-- Extra tools -->
+  <img src="https://devicons.railway.com/i/postman.svg" alt="Postman" width="36" height="36"/>
+  <img src="https://devicons.railway.com/i/raspberrypi.svg" alt="Raspberry Pi" width="36" height="36"/>
 </p>
 
 ---
@@ -58,9 +62,9 @@ Raspberry Pi, Telegram Bots, API Automation
 
 | Project | Description | Tech | Demo / Link |
 |---------|------------|------|-------------|
-| **Server API Bot** | ![Server API Bot] Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
-| **DevBotUtils** | ![DevBotUtils] Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
-| **Project Tree** | ![Project Tree] Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
+| **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
+| **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
+| **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
 | **Web Activity Dashboard** | Next.js + Tailwind dashboard to track visits, browser usage, searches and recent activity, with optional Telegram bot integration | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
 
 ---
