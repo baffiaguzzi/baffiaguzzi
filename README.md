@@ -1,8 +1,8 @@
 # Hi, I'm Gabriele (Gabri)! 👋
 
-🧑‍💻 **Frontend Developer & UX/UI Designer** | React | Next.js | Python | Angular | TypeScript | Tailwind | Figma | Photoshop  
+🧑‍💻 **Frontend Developer & UX/UI Designer** | React • Next.js • TypeScript • Tailwind • Figma  
 
-💡 I turn ideas into elegant, functional, and performant interfaces. I enjoy writing clean code, crafting memorable user experiences, and experimenting with new technologies.
+💡 I craft elegant, high-performance interfaces that users love. Clean code, smart UX, and measurable impact are my mantra.
 
 ---
 
@@ -16,16 +16,16 @@
 ## 🧰 Languages & Tools
 
 **Frontend / Web**  
-React, Next.js, Angular, HTML5, CSS3, JavaScript, TypeScript, Tailwind, Python
+Modern SPA & SSR applications with React, Next.js and Angular
 
 **UI / UX**  
-Figma, Photoshop, Design Systems, Responsive Design, Prototyping
+Design systems, responsive layouts and prototyping with Figma & Photoshop
 
-**Tools / DevOps**  
-Git, GitHub/GitLab, VS Code, Postman, FileZilla, ClickUp
+**Scripting / Automation**  
+Python for CLI tools, bots and automation
 
-**Other**  
-Raspberry Pi, Telegram Bots, API Automation
+**Tools / Workflow**  
+Git-based workflows, API testing and productivity tooling
 
 <p align="left">
   <!-- Core frontend -->
@@ -60,10 +60,10 @@ Raspberry Pi, Telegram Bots, API Automation
 
 | Project | Description | Tech | Demo / Link |
 |---------|------------|------|-------------|
-| **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
-| **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
-| **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
-| **Web Activity Dashboard** | Next.js + Tailwind dashboard to track visits, browser usage, searches and recent activity, with optional Telegram bot integration | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
+| ⚡ **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
+| 🤖 **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
+| 📊 **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
+| 📈 **Web Activity Dashboard** | Next.js + Tailwind dashboard to track visits, browser usage, searches and recent activity, with optional Telegram bot integration | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
 
 ---
 
@@ -98,5 +98,5 @@ I enjoy turning complex ideas into **clean, functional, and beautiful interfaces
 
 ## ⚡ Motto / Fun Fact
 
-> "Clean code, smooth interfaces, simpler life."  
-> I love experimenting and never stop learning.
+> "Clean code, smooth interfaces, simpler life."
+> Only clean and maintainable code makes it to production.
