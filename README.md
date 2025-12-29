@@ -18,31 +18,31 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" width="36" height="36" style="color:#61DAFB"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" alt="Next.js" width="36" height="36" style="color:#000000"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/angular.svg" alt="Angular" width="36" height="36" style="color:#DD0031"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="36" height="36"/>
   
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" width="36" height="36" style="color:#3178C6"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="36" height="36" style="color:#F7DF1E"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML5" width="36" height="36" style="color:#E34F26"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS3" width="36" height="36" style="color:#1572B6"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
   
   <!-- Styling / UX -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="TailwindCSS" width="36" height="36" style="color:#06B6D4"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" alt="Figma" width="36" height="36" style="color:#F24E1E"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg" alt="Photoshop" width="36" height="36" style="color:#31A8FF"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="36" height="36"/>
   
   <!-- Backend / Automation -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="36" height="36" style="color:#3776AB"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/raspberrypi.svg" alt="Raspberry Pi" width="36" height="36" style="color:#C51A4A"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="36" height="36"/>
   
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" width="36" height="36" style="color:#F05032"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="36" height="36" style="color:#181717"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" alt="GitLab" width="36" height="36" style="color:#FC6D26"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="VS Code" width="36" height="36" style="color:#007ACC"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" alt="Postman" width="36" height="36" style="color:#FF6C37"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="36" height="36"/>
 </p>
 
 ---
