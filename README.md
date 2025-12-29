@@ -1,14 +1,14 @@
 # Hi, I'm Gabriele (Gabri)! 👋
 
-🧑‍💻 **Frontend Developer & UX/UI Designer** | React • Next.js • TypeScript • Tailwind • Figma • Python  
+**Frontend Developer & UX/UI Designer** | React • Next.js • TypeScript • Tailwind • Figma • Python  
 
-💡 I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
+I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
 
 ---
 
 ## 🔭 Currently working on
 
-### 🌐 Web Activity Dashboard
+### Web Activity Dashboard
 Next.js + Tailwind analytics dashboard tracking visits, browser usage, searches, and recent activity, with optional Telegram bot integration.  
 Actively refining UI/UX, data visualization, and dark mode.
 
@@ -34,7 +34,7 @@ Actively refining UI/UX, data visualization, and dark mode.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="36" height="36"/>
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="36" height="36" style="background-color:#fff"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="36" height="36" style="background:#fff"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/>
@@ -47,20 +47,20 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 | Project | Description | Tech | Demo / Link |
 |---------|------------|------|-------------|
-| ⚡ **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
-| 🤖 **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
-| 📊 **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
-| 📈 **Web Activity Dashboard** | Analytics dashboard with Next.js + Tailwind, optional Telegram bot | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
+| **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
+| **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
+| **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
+| **Web Activity Dashboard** | Analytics dashboard with Next.js + Tailwind, optional Telegram bot | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
 
 ---
 
 ## 🏆 Highlights & Milestones
 
-- ✅ Modular architecture for Server API Bot  
-- ✅ CLI + Telegram bot integration  
-- ✅ Automated project structure visualization with Project Tree
-- ✅ Web Activity Dashboard: Next.js 13 + TailwindCSS + Recharts analytics UI
-- ✅ Active experimentation with Python + Frontend tools
+- Modular architecture for Server API Bot  
+- CLI + Telegram bot integration  
+- Automated project structure visualization with Project Tree
+- Web Activity Dashboard: Next.js 13 + TailwindCSS + Recharts analytics UI
+- Active experimentation with Python + Frontend tools
 
 ---
 
