@@ -16,14 +16,8 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ## 🚀 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,figma,python,github,vscode,postman,html,css,js" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAT&layout=compact&theme=github_dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwindcss,figma,photoshop,python,github,gitlab,postman,vscode,notion" />
 </p>
 
 ---
