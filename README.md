@@ -14,10 +14,10 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ---
 
-## 🚀 Languages & Tools
+## 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwindcss,figma,photoshop,python,github,gitlab,postman,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwindcss,figma,photoshop,python,github,gitlab,vscode,postman,notion?size=48" />
 </p>
 
 ---
