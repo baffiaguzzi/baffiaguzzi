@@ -14,37 +14,16 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ---
 
-## 🧰 Languages & Tools
+## 🚀 Languages & Tools
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,figma,python,github,vscode,postman,html,css,js" />
+</p>
 
-  <!-- Frontend -->
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=react&size=48" alt="React"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=next.js&size=48" alt="Next.js"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=angular&size=48" alt="Angular"/>
+## 📊 GitHub Stats
 
-  <!-- Languages -->
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=typescript&size=48" alt="TypeScript"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=javascript&size=48" alt="JavaScript"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=html5&size=48" alt="HTML5"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=css3&size=48" alt="CSS3"/>
-
-  <!-- Styling / UX -->
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=tailwindcss&size=48" alt="TailwindCSS"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=figma&size=48" alt="Figma"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=photoshop&size=48" alt="Photoshop"/>
-
-  <!-- Backend / Automation -->
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=python&size=48" alt="Python"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=raspberrypi&size=48" alt="Raspberry Pi"/>
-
-  <!-- Tools -->
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=git&size=48" alt="Git"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&size=48" alt="GitHub"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=gitlab&size=48" alt="GitLab"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=vscode&size=48" alt="VS Code"/>
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=postman&size=48" alt="Postman"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAT&layout=compact&theme=github_dark" />
 </p>
 
 ---
