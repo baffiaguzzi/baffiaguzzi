@@ -17,32 +17,34 @@ Actively refining UI/UX, data visualization, and dark mode.
 ## 🧰 Languages & Tools
 
 <p align="left">
+
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="36" height="36"/>
-  
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=react&size=48" alt="React"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=next.js&size=48" alt="Next.js"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=angular&size=48" alt="Angular"/>
+
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-  
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=typescript&size=48" alt="TypeScript"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=javascript&size=48" alt="JavaScript"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=html5&size=48" alt="HTML5"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=css3&size=48" alt="CSS3"/>
+
   <!-- Styling / UX -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="36" height="36"/>
-  
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=tailwindcss&size=48" alt="TailwindCSS"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=figma&size=48" alt="Figma"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=photoshop&size=48" alt="Photoshop"/>
+
   <!-- Backend / Automation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="36" height="36"/>
-  
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=python&size=48" alt="Python"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=raspberrypi&size=48" alt="Raspberry Pi"/>
+
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="36" height="36"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=git&size=48" alt="Git"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&size=48" alt="GitHub"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=gitlab&size=48" alt="GitLab"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=vscode&size=48" alt="VS Code"/>
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=postman&size=48" alt="Postman"/>
+
 </p>
 
 ---
