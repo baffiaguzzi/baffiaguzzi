@@ -43,7 +43,7 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ---
 
-## 📫 Contact
+## 📫 How to reach me
 
 - LinkedIn: [Gabriele A. Tambellini](https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b)  
 - Email: gabrieleatambellini@gmail.com  
