@@ -1,62 +1,84 @@
-# Hi, I'm Gabriele (Gabri)! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baffiaguzzi.baffiaguzzi" />
 
-**Frontend Developer & UX/UI Designer** | React • Next.js • Python • TypeScript • Tailwind • Figma
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+I'm+Gabriele+(Gabri)+👋;Frontend+Developer+%26+UX%2FUI+Designer;Clean+Code+%7C+Smart+UX+%7C+Real+Impact" />
+</h1>
 
-I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
+<h3 align="center">Frontend Developer & UX/UI Designer • React • Next.js • TypeScript • Python</h3>
+
+<div align="center">
+
+<a href="mailto:gabrieleatambellini@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
+<a href="https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.baffiaguzzi.com">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🔭 Currently working on
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+I craft **elegant, high-performance interfaces** that users actually enjoy using.
+
+My focus:
+- Clean and scalable frontend architecture
+- UX decisions driven by real usability
+- Performance-first development
+- Turning complex ideas into simple experiences
+
+---
+
+## 🔭 Currently Working On
 
 ### Web Activity Dashboard
-Next.js + Tailwind analytics dashboard tracking visits, browser usage, searches, and recent activity, with optional Telegram bot integration.  
-Actively refining UI/UX, data visualization, and dark mode.
+Next.js + Tailwind analytics dashboard tracking visits, browser usage, searches, and activity data with optional Telegram bot integration.
+
+Currently refining:
+- Data visualization
+- UX flows
+- Dark mode experience
+- Performance optimization
 
 ---
 
 ## 💻 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwindcss,figma,photoshop,python,github,gitlab,vscode,postman,notion?size=48" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwindcss,figma,photoshop,python,github,gitlab,vscode,postman,notion&perline=8" />
 </p>
 
 ---
 
 ## 🚀 Key Projects
 
-| Project | Description | Tech | Demo / Link |
-|---------|------------|------|-------------|
-| **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
-| **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
-| **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
-| **Web Activity Dashboard** | Analytics dashboard with Next.js + Tailwind, optional Telegram bot | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
+| Project | Description | Tech |
+|---------|------------|------|
+| **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, CLI |
+| **DevBotUtils** | Utility scripts to speed up development workflows | Python |
+| **Project Tree** | Project structure visualization tools | Python |
+| **Web Activity Dashboard** | Analytics dashboard with real-time UI | Next.js, Tailwind |
 
 ---
 
-## 🏆 Highlights & Milestones
+## 🏆 Highlights
 
-- Modular architecture for Server API Bot  
-- CLI + Telegram bot integration  
-- Automated project structure visualization with Project Tree
-- Web Activity Dashboard: Next.js 13 + TailwindCSS + Recharts analytics UI
-- Active experimentation with Python + Frontend tools
-
----
-
-## 📫 How to reach me
-
-- LinkedIn: [Gabriele A. Tambellini](https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b)  
-- Email: gabrieleatambellini@gmail.com  
-- Portfolio: [Website](https://www.baffiaguzzi.com)
-
----
-
-## 💬 Fun Fact
-I enjoy turning complex ideas into **clean, functional, and beautiful interfaces**, and love experimenting with new technologies while maintaining code quality.
+- Modular CLI architectures in Python
+- Telegram bot + automation workflows
+- Advanced UI systems with Next.js & Tailwind
+- Continuous experimentation between Backend logic and Frontend UX
 
 ---
 
 ## ⚡ Motto
 
-> "Clean code, smooth interfaces, simpler life."  
-> Only clean and maintainable code makes it to production.
+> Clean code. Smooth interfaces. Simpler life.
