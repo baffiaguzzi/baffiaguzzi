@@ -1,84 +1,62 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baffiaguzzi.baffiaguzzi" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iamhasanhabib.iamhasanhabib" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+I'm+Gabriele+(Gabri)+👋;Frontend+Developer+%26+UX%2FUI+Designer;Clean+Code+%7C+Smart+UX+%7C+Real+Impact" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gabriele+A.+Tambellini!;" />
 </h1>
 
-<h3 align="center">Frontend Developer & UX/UI Designer • React • Next.js • TypeScript • Python</h3>
+<h3 align="center">A passionate Frontend Web Developer</h3>
 
-<div align="center">
+<br/>
 
-<a href="mailto:gabrieleatambellini@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-
-<a href="https://it.linkedin.com/in/gabriele-a-tambellini-144a4a10b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.baffiaguzzi.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-</a>
-
+<div align="center"> 
+  <a href="mailto:gabrieleatambellini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/gabrieleatambellini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://hasandev-pi.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     </a>
 </div>
 
----
+ <hr/>
 
-## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+ 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I craft **elegant, high-performance interfaces** that users actually enjoy using.
+# <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **a Nexjs Projects**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="25"> I'm a quick learner And I’m currently learning **AWS and Leetcode problem solving**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Node.js, React, Next.js, MongoDB...** <br />
+:hearts: &emsp;I enjoy programming and sharing knowledge <br />
+:computer: &emsp;Most used line of code `console.log("hello world")` <br />
+- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Fun fact **World first developer was a women**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **gabrieleatambellini@gmail.com**
+<div align="center">
+  
+<h2 align="center">⚒️ Things I code with ⚒️</h2>
 
-My focus:
-- Clean and scalable frontend architecture
-- UX decisions driven by real usability
-- Performance-first development
-- Turning complex ideas into simple experiences
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Prisma Badge](https://img.shields.io/badge/-Prisma-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+ 
+ </div>
+ 
+<hr />
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,prisma" /><br>
+</div>
 
----
+<br/>
+<hr/>
 
-## 🔭 Currently Working On
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
-### Web Activity Dashboard
-Next.js + Tailwind analytics dashboard tracking visits, browser usage, searches, and activity data with optional Telegram bot integration.
-
-Currently refining:
-- Data visualization
-- UX flows
-- Dark mode experience
-- Performance optimization
-
----
-
-## 💻 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwindcss,figma,photoshop,python,github,gitlab,vscode,postman,notion&perline=8" />
-</p>
-
----
-
-## 🚀 Key Projects
-
-| Project | Description | Tech |
-|---------|------------|------|
-| **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, CLI |
-| **DevBotUtils** | Utility scripts to speed up development workflows | Python |
-| **Project Tree** | Project structure visualization tools | Python |
-| **Web Activity Dashboard** | Analytics dashboard with real-time UI | Next.js, Tailwind |
-
----
-
-## 🏆 Highlights
-
-- Modular CLI architectures in Python
-- Telegram bot + automation workflows
-- Advanced UI systems with Next.js & Tailwind
-- Continuous experimentation between Backend logic and Frontend UX
-
----
-
-## ⚡ Motto
-
-> Clean code. Smooth interfaces. Simpler life.
+<br/>
+<hr/>
