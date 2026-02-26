@@ -5,14 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # About Me:
+- **Frontend Developer & UX/UI Designer** | React • Next.js • Python • TypeScript • Tailwind • Figma
+- I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
 - I’m currently working on **a Nexjs Project**
 - I'm a quick learner And I’m currently on **Backend learning**
-:hearts: &emsp;I enjoy programming and sharing knowledge <br />
-:computer: &emsp;Most used line of code `hello.world("console log!")` <br />
-
-**Frontend Developer & UX/UI Designer** | React • Next.js • Python • TypeScript • Tailwind • Figma
-
-I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
+- Most used line of code `hello.world("console log!")` <br />
 
 ---
 
@@ -26,9 +23,10 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ## 💻 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwindcss,bootstrap, figma,photoshop,python,github,gitlab,git,nodejs,vscode,postman,notion?size=48" />
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,prisma" /><br>
+</div>
 
 ---
 
