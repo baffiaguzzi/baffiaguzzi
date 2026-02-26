@@ -7,8 +7,8 @@
 # About Me:
 - **Frontend Developer & UX/UI Designer** | React • Next.js • Python • TypeScript • Tailwind • Figma
 - I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
-- I’m currently working on **a Nexjs Project**
-- I'm a quick learner And I’m currently on **Backend learning**
+- I'm currently building a **Next.js analytics dashboard focused on UX-driven data visualization**
+- Currently expanding my backend skills with Python and API architecture.
 - Most used line of code `hello.world("console log!")` <br />
 
 ---
@@ -24,9 +24,17 @@ Actively refining UI/UX, data visualization, and dark mode.
 ## 💻 Languages & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,bootstrap,tailwind,vscode,github,figma,github" />
+    <img src="https://skillicons.dev/icons?i=gitlab,nodejs,python" /><br>
 </div>
+
+---
+
+## 🧠 What I care about
+- Performance-first UI
+- Scalable component architecture
+- Clean DX for developers
+- UX decisions backed by real usage
 
 ---
 
@@ -35,6 +43,7 @@ Actively refining UI/UX, data visualization, and dark mode.
 | Project | Description | Tech | Demo / Link |
 |---------|------------|------|-------------|
 | **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
+| **Mr Robot Network Scanner** | CLI network analysis and device discovery tool with logging, diagnostics, and security-oriented insights | Python, Networking, CLI | [GitHub](https://github.com/baffiaguzzi/mr-robot-network-scanner) |
 | **DevBotUtils** | Utility scripts and bots to speed up development workflows | Python, CLI | [GitHub](https://github.com/baffiaguzzi/DevBotUtils) |
 | **Project Tree** | Scripts to generate and visualize project structures | Python, CLI | [GitHub](https://github.com/baffiaguzzi/project-tree) |
 | **Web Activity Dashboard** | Analytics dashboard with Next.js + Tailwind, optional Telegram bot | Next.js, React, TailwindCSS, Recharts | [GitHub](https://github.com/baffiaguzzi/web-activity-dashboard) |
@@ -68,9 +77,3 @@ I enjoy turning complex ideas into **clean, functional, and beautiful interfaces
 
 > "Clean code, smooth interfaces, simpler life."  
 > Only clean and maintainable code makes it to production.
-
----
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
