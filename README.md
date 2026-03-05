@@ -24,8 +24,7 @@ Actively refining UI/UX, data visualization, and dark mode.
 ## 💻 Languages & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,nodejs,express,prisma,python,github,gitlab,vscode,figma,photoshop" />
-    <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,nodejs,express,prisma,python,docker,git,github,gitlab,vscode,figma,photoshop" />
 </div>
 
 ---
