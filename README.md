@@ -6,18 +6,16 @@
 
 # About Me:
 - **Frontend Developer & UX/UI Designer** | React • Next.js • Python • TypeScript • Tailwind • Figma
-- I craft **elegant, high-performance interfaces** that users love. Clean code, smart UX, and measurable impact are my mantra.
-- I'm currently building a **Next.js analytics dashboard focused on UX-driven data visualization**
+- I build **high-performance web interfaces** with a strong focus on UX, clean architecture, and maintainable code.
 - Currently expanding my backend skills with Python and API architecture.
-- Most used line of code `hello.world("console log!")` <br />
+- Most used line of code: `console.log("ok but why?")`
 
 ---
 
-## 🔭 Currently working on
-
-### Web Activity Dashboard
-Next.js + Tailwind analytics dashboard tracking visits, browser usage, searches, and recent activity, with optional Telegram bot integration.  
-Actively refining UI/UX, data visualization, and dark mode.
+## 🎯 Current Focus
+- Advanced frontend architecture (React / Next.js)
+- Backend tooling with Python
+- Developer productivity and automation
 
 ---
 
@@ -39,7 +37,7 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ## 🚀 Key Projects
 
-| Project | Description | Tech | Demo / Link |
+| Project | Description | Stack | Link |
 |---------|------------|------|-------------|
 | **Server API Bot** | Telegram bot + CLI to test REST APIs with logging/export | Python, Telegram Bot, CLI | [GitHub](https://github.com/baffiaguzzi/server-api_bot) |
 | **Mr Robot Network Scanner** | CLI network analysis and device discovery tool with logging, diagnostics, and security-oriented insights | Python, Networking, CLI | [GitHub](https://github.com/baffiaguzzi/mr-robot-network-scanner) |
@@ -51,11 +49,12 @@ Actively refining UI/UX, data visualization, and dark mode.
 
 ## 🏆 Highlights & Milestones
 
-- Modular architecture for Server API Bot  
-- CLI + Telegram bot integration  
-- Automated project structure visualization with Project Tree
-- Web Activity Dashboard: Next.js 13 + TailwindCSS + Recharts analytics UI
-- Active experimentation with Python + Frontend tools
+- Built multiple **CLI developer tools in Python** used for networking, automation and diagnostics
+- Designed and shipped **modular Telegram bots** integrating APIs, logging systems and command workflows
+- Developed **data-driven dashboards with React / Next.js** focused on UX and performance
+- Structured scalable **component architectures and design systems** for frontend applications
+- Created **developer productivity tools** to automate project analysis and structure visualization
+- Continuous experimentation across **frontend, backend and dev tooling**
 
 ---
 
@@ -68,7 +67,7 @@ Actively refining UI/UX, data visualization, and dark mode.
 ---
 
 ## 💬 Fun Fact
-I enjoy turning complex ideas into **clean, functional, and beautiful interfaces**, and love experimenting with new technologies while maintaining code quality.
+I enjoy turning complex ideas into **clean, functional, and beautiful interfaces**. Love experimenting with new technologies while maintaining code quality.
 
 ---
 
